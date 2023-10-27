@@ -1,4 +1,4 @@
-## Use
+## Use better chunking to convert sparsely 2D sections to 3D precomputed volume
 :warning: UNDER DEVELOPMENT :warning:
 
 ### Convert from MiRA software exportable formats
